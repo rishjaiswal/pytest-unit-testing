@@ -17,6 +17,7 @@ def anshu():
 
 def test_richa(anshu):
     print("Start test_richa_method")
+    assert True
 
 
 

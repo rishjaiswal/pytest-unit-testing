@@ -12,7 +12,9 @@ def teardown_module(module):
 
 def test_rishabh_test():
     print("Start test_rishabh_method")
+    assert True
 
 def test_anshu_test():
     print("Start test_anshu_method")
+    assert True
 
